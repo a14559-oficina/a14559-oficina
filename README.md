@@ -1,5 +1,5 @@
 <h1>Rui Amorim</h1>
-<h3>Tecnico de Gestão e Programação de Sistemas Informaticos</h3>
+<h3>Técnico de Gestão e Programação de Sistemas Informaticos</h3>
 <a href="mailto:a14559@oficina.pt">
   Entre em contacto
 </a>
